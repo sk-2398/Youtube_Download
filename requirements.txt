@@ -31,12 +31,7 @@ httpie==2.4.0
 idna==2.10
 instaloader==4.7.1
 jmespath==0.10.0
-Kivy==2.0.0
-kivy-deps.angle==0.3.0
-kivy-deps.glew==0.3.0
-kivy-deps.gstreamer==0.3.1
-kivy-deps.sdl2==0.3.1
-Kivy-Garden==0.1.4
+
 lxml==4.6.3
 multidict==5.1.0
 oauthlib==3.1.0
